@@ -56,7 +56,7 @@ const Navbar = ({
               to bg-neutral-400 bg-opacity-50"
         >
           <div onClick={scrollToWebsiteDesign} className="hover:text-gray-50">
-            Website Design
+            Proyectos
           </div>
           <div onClick={scrollToGraphicDesign} className="hover:text-gray-50">
             Graphic Design
@@ -70,7 +70,7 @@ const Navbar = ({
           </div>
 
           <Link href="/pricing" className="hover:text-gray-50">
-            Pricing
+            Servicios
           </Link>
         </div>
 
